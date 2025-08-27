@@ -1,2 +1,2 @@
-# leetcode
-dsa problems in leetcode
+# LeetCode
+DSA Problems solved for LeetCode problems by Anvi Singh.
